@@ -22,4 +22,9 @@
 
 ![git_gitHub.png](git_gitHub.png)
 
+## Первый конфликт
+![Perviy_konflikt.png](Perviy_konflikt.png)
+
+## Второй конфликт
+![Vtoroy_konflikt.png](Vtoroy_konflikt.png)
 
